@@ -4,6 +4,6 @@ deploy:
   provider: heroku
   api_key:
     secure: mA7OAl1Ol8HznDHzEMoP8jMPZfSCoHpQRWLEcEjNgwySPEN7HvH9d1rvoRlHNh0U92qX8dM47e0glNk/tWXiSnICUQbQDoYKotwxaeIjGySrwM4sE1qWK16eIcINROKuhdEOFqpJ/0xFuGT6R19cihbVxOafjGE8IKardbm4BMVR1xCpUkKOz6i/WlfbP78GF1I+4VlOh8FrmaMBHFu5vFHImbdwon1nOxIKqggVi7Smoj4xUiyHhlfyzmRp+ynBxO+Y43eCNVYhgybVhUEvJzl5PNcB6qnI9NDjNmcLKqXfRH6UTCHIAG3BrBAYDWDU7aPCFKod7Hs31xvqBogvncvL8jTgnO9yrN/sjq83lxiawBoW+qWGVhEHDcQ5LSkxqI0lLuaJlRDWMjz13J8Nvp99/k9hXkO/zxQwljNHf+0Rbi8sXe3Guw1+NmMWPsNQWZPBPdxDbzAHaBwzvZCKo6ECZiGLp8mnMGCTCutKIIMnIuozE9GDIdP3km0knP6+lC7zRpKmgyU5tEUinT8Hb9l3Loh8fLmu1XrjIn9p5/lXK5XzZjmcOY47s7qmz+0+fevUIRxPMTbKt4tqvXQ+tv8y+X8GSHrv27nBjNsmIkFDpPOLm41qaM/lT+Os8yJbisE3dMh+x4HELUDdJgP4d6CrNKV24X2f9zvWAtFDS7E=
-  app: https://hidden-harbor-89383.herokuapp.com/
+  app: agile-sands-46732
   on:
     repo: DikshaSach/node-shopping-list-integration-tests
